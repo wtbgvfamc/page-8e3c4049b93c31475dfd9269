@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://cn.shadowrocketun.com/sitemap.xml
